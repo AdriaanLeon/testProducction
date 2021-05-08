@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\adrian\\Documents\\practice\\poo\\partOne\\partOne.csproj",
+      "projectUniqueName": "C:\\Users\\adrian\\Documents\\practice\\poo\\gitPartOne\\testProducction\\partOne\\partOne.csproj",
       "projectName": "partOne",
-      "projectPath": "C:\\Users\\adrian\\Documents\\practice\\poo\\partOne\\partOne.csproj",
+      "projectPath": "C:\\Users\\adrian\\Documents\\practice\\poo\\gitPartOne\\testProducction\\partOne\\partOne.csproj",
       "packagesPath": "C:\\Users\\adrian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\adrian\\Documents\\practice\\poo\\partOne\\obj\\",
+      "outputPath": "C:\\Users\\adrian\\Documents\\practice\\poo\\gitPartOne\\testProducction\\partOne\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
