@@ -6,10 +6,6 @@ namespace partOne.Models
         public string Name { get; set; }
         public int Age { get; set; }
         public int DNI { get; set; }
-        public Person()
-        {
-            
-        }
         public string ShowDatapPerson() 
         { 
             return $"{Name} {Age} {DNI}"; 
