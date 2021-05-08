@@ -1,0 +1,16 @@
+C:\Users\adrian\Documents\practice\poo\partOne\bin\Debug\net5.0\partOne.exe
+C:\Users\adrian\Documents\practice\poo\partOne\bin\Debug\net5.0\partOne.deps.json
+C:\Users\adrian\Documents\practice\poo\partOne\bin\Debug\net5.0\partOne.runtimeconfig.json
+C:\Users\adrian\Documents\practice\poo\partOne\bin\Debug\net5.0\partOne.runtimeconfig.dev.json
+C:\Users\adrian\Documents\practice\poo\partOne\bin\Debug\net5.0\partOne.dll
+C:\Users\adrian\Documents\practice\poo\partOne\bin\Debug\net5.0\ref\partOne.dll
+C:\Users\adrian\Documents\practice\poo\partOne\bin\Debug\net5.0\partOne.pdb
+C:\Users\adrian\Documents\practice\poo\partOne\obj\Debug\net5.0\partOne.csprojAssemblyReference.cache
+C:\Users\adrian\Documents\practice\poo\partOne\obj\Debug\net5.0\partOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adrian\Documents\practice\poo\partOne\obj\Debug\net5.0\partOne.AssemblyInfoInputs.cache
+C:\Users\adrian\Documents\practice\poo\partOne\obj\Debug\net5.0\partOne.AssemblyInfo.cs
+C:\Users\adrian\Documents\practice\poo\partOne\obj\Debug\net5.0\partOne.csproj.CoreCompileInputs.cache
+C:\Users\adrian\Documents\practice\poo\partOne\obj\Debug\net5.0\partOne.dll
+C:\Users\adrian\Documents\practice\poo\partOne\obj\Debug\net5.0\ref\partOne.dll
+C:\Users\adrian\Documents\practice\poo\partOne\obj\Debug\net5.0\partOne.pdb
+C:\Users\adrian\Documents\practice\poo\partOne\obj\Debug\net5.0\partOne.genruntimeconfig.cache
